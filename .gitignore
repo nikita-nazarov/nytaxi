@@ -1,0 +1,6 @@
+.gradle
+build
+app/src/helpers
+.vscode
+.idea
+data
